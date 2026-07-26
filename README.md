@@ -421,6 +421,35 @@ TDA架构的核心是**使用侧研究**——不是研究模型能做什么，�
 
 高可靠AI的安全前提，不是"模型完美"，是**在承认模型不完美的条件下，建立"判断归机、目的归人"的主体形成机制**。
 
+本文所提出的工具侧与使用侧分野，不仅是一个架构设计问题，更是一个学科配置问题。当前AI研究将行业落地、安全约束、决策权责、场景事实绑定等问题视为工具侧研究的工程附属，导致安全关键系统的决策主体问题始终缺乏独立的理论基础。TDA架构的提出，意在证明：使用侧人工智能——以决策主体形成、私域事实约束、责任链构建为核心研究对象——**具备独立于工具侧研究的学科合法性**。 *其完整学科论证，将另文展开*。
+
+#
+
+## 参考文献
+
+[1] OpenAI. Why Language Models Hallucinate. arXiv:2509.04664, 2025.
+
+[2] Maturana, H. R., & Varela, F. J. Autopoiesis and Cognition. Reidel, 1980.
+
+[3] Spinoza, B. Ethics. 1677. (Conatus doctrine)
+
+[4] Heidegger, M. Being and Time. 1927. (Dasein as thrown projection)
+
+[5] Husserl, E. Ideas Pertaining to a Pure Phenomenology. 1913. (Intentionality)
+
+[6] Friston, K. The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 2010.
+
+[7] Blum, M., et al. Conscious Turing Machine. arXiv:2107.13704, 2021.
+
+[8] 邬江兴. 内生安全与拟态防御. 中国科学: 信息科学, 2018.
+
+[9] Yao, A. C. C. 可证明安全的通用人工智能. 相关学术报告, 2023-2024.
+
+[10] 中国科学院. 可信计算与负责任计算（TRC）框架. 相关技术白皮书, 2024.
+
+
+---
+
 
 ## 参考文献
 
