@@ -323,7 +323,8 @@ OpenAI的《Why Language Models Hallucinate》分析了幻觉的技术原因，�
 
 **目标**：验证动态私域事实采集+闭环修复的完整可行性
 
-**参考实现**： crash_probe.py（定向故障探针）
+**参考实现**：
+[crash_probe.py（定向故障探针）](crash_probe.py)
 
 
 **场景设计**：系统运维故障诊断
